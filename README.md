@@ -1,9 +1,10 @@
 # A-comparison-of-Successive-Interference-Cancellation
-*STBC-Aided Cooperative NOMA With Timing Offsets, Imperfect Successive Interference Cancellation, and Imperfect Channel State Information
-*
+*STBC-Aided Cooperative NOMA With Timing Offsets, Imperfect Successive Interference Cancellation, and Imperfect Channel State Information*
 
 
-Simulation code for the comparitive analysis of the number of SICs increase with the number of increase in devices in NOMA, and cooperative NOMA types
+Simulation code for the comparitive analysis of the number of SICs increase with the number of increase in devices in NOMA, and cooperative NOMA types in Fig. 14 of the following paper.
+
+
 If you find this simulation helpful, then please cite the following papers
 
 ## Cite this work
@@ -14,7 +15,7 @@ If you find this simulation helpful, then please cite the following papers
 @ARTICLE{9170867,
   author={Akhtar, Muhammad Waseem and Hassan, Syed Ali and Saleem, Sajid and Jung, Haejoon},
   journal={IEEE Transactions on Vehicular Technology}, 
-  title={STBC-Aided Cooperative NOMA With Timing Offsets, Imperfect Successive Interference Cancellation, and Imperfect Channel State Information}, 
+  title={{STBC}-Aided Cooperative {NOMA} With Timing Offsets, Imperfect Successive Interference Cancellation, and Imperfect Channel State Information}, 
   year={2020},
   volume={69},
   number={10},
